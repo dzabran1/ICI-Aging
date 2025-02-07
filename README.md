@@ -1,5 +1,5 @@
 # ICI-Aging
-Code for Kao, Charmsaz, Hsai et al. 2025 publication.
+Code for Kao, Charmsaz, Tsai et al. 2025 publication.
 2024-05-23
 
 Overview:
